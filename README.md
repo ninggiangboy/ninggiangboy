@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hey there! I'm Ha Duy Khanh - ninggiangboy 🎉
 
-<!--
-**ninggiangboy/ninggiangboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+🎨 I'm a coding wizard by night and a sleep enthusiast by day. Here's a bit more about my awesomeness:
+- 🛠 Currently building `Graduation Project`, it's going to be epic!
+- 🌱 Learning `Kotlin` to build `Spring Boot` application because why not?
+- 🧠 Ask me about `Backend/Spring/Java`, I have all the answers (or at least a witty comment).
+- 🌍 Based in Ha Noi, where the weather is always sunny with a chance of code!.
+- 📫 Reach me via `haduykhanh.hs@gmail.com`, I don't bite.
+- 😄 Pronouns: he/him, because inclusivity rocks!
+- 🎨 Fun fact: I am a fanboy of IU, you didn't see that coming, did you?
