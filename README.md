@@ -14,21 +14,12 @@
 ### 🧰 Toolbox
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,ts,js,html,css)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=spring,nextjs,dotnet,react,hibernate,unity)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=gradle,maven)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,redis,vercel)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,nginx,npm,pnpm,yarn)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,postman,visualstudio)](https://skillicons.dev)
