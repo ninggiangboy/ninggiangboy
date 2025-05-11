@@ -2,13 +2,12 @@
 
 ### 🚀 About Me
 
-🎨 I'm a coding wizard by night and a sleep enthusiast by day. Here's a bit more about my awesomeness:
+🎨 Here's a bit more about my awesomeness:
 - 🛠 Currently building `Graduation Project`, it's going to be epic!
 - 🌱 Learning `Kotlin` to build `Spring Boot` application because why not?
 - 🧠 Ask me about `Backend/Spring/Java`, I have all the answers (or at least a witty comment).
 - 🌍 Based in Ha Noi, where the weather is always sunny with a chance of code!.
-- 📫 Reach me via `haduykhanh.hs@gmail.com`, I don't bite.
-- 😄 Pronouns: he/him, because inclusivity rocks!
+- 📫 Reach me via `haduykhanh.hs@gmail.com`.
 - 🎨 Fun fact: I am a fanboy of IU, you didn't see that coming, did you?
 
 ### 🧰 Toolbox
@@ -22,4 +21,3 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,nginx,npm,pnpm,yarn)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea,rider,webstorm,vscode,postman,visualstudio)](https://skillicons.dev)
